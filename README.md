@@ -19,4 +19,4 @@ identifying roles and locations with the highest disparity to support DEI
 - Excel (data source)
 
 ## Dataset
-Raw data: [Equality Table.xlsx](Equality Table.xlsx)
+Raw data: [Equality_Table.xlsx](Equality_Table.xlsx)
