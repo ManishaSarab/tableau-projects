@@ -1,22 +1,26 @@
-# Workplace Equality & Pay Gap Analysis
+## Daikibo Corporate Diversity & Equality Audit
+An interactive Tableau Dashboard auditing workplace equality across 4 global factories and 11 job roles at Daikibo Corporation.
 
-## Overview
-Analyzed pay/opportunity equality scores across factory job roles using Tableau, 
-identifying roles and locations with the highest disparity to support DEI 
-(Diversity, Equity & Inclusion) reporting.
+## Project Overview
+Analyzed workplace fairness to help HR leadership identify equity gaps across locations and corporate seniority tiers.
+
+## Key Insights
+Management Gap: Equality scores drop sharply in leadership, hitting a low of -26 for VPs.
+
+Location Disparity: Daikibo Berlin scored highest in fairness, while Meiyo and Seiko showed severe discrimination in management roles.
+
+Tech vs. Leadership: Entry/mid-level engineering roles (e.g., Jr. Engineer) remained fair, showing bias is concentrated in executive promotion paths.
 
 ![Dashboard Screenshot](image.png)
 
-## Key Insights
-- Classified roles into Fair, Unfair, and Highly Discriminative equality bands 
-  based on equality score thresholds
-- [Factory name] showed the most severe disparities at senior levels 
-  (C-Level, VP, Director), while technical/engineering roles trended closer to fair
-- Identified [X]% of roles across factories falling into the "Highly Discriminative" band
+## Quick Takeaways
+Prioritize DEI audits at Meiyo and Seiko factories.
 
-## Tools Used
-- Tableau (dashboard & visualization)
-- Excel (data source)
+Standardize criteria for VP and C-suite promotions to eliminate bias.
+
+Track equality metrics quarterly via Tableau.
+
+## Tools: Tableau Public, Excel
 
 ## Dataset
 Raw data: [Equality_Table.xlsx](Equality_Table.xlsx)
