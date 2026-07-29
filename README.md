@@ -5,7 +5,7 @@ Analyzed pay/opportunity equality scores across factory job roles using Tableau,
 identifying roles and locations with the highest disparity to support DEI 
 (Diversity, Equity & Inclusion) reporting.
 
-![Dashboard Screenshot](equality-dashboard-screenshot.png)
+![Dashboard Screenshot](image.png)
 
 ## Key Insights
 - Classified roles into Fair, Unfair, and Highly Discriminative equality bands 
